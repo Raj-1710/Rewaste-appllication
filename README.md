@@ -1,2 +1,2 @@
 # Rewaste-appllication
-Developed anAndroid Application on Flutter and Dart Code
+Developed an Android Application on Flutter and Dart Code
